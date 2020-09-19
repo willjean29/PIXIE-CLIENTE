@@ -3,7 +3,7 @@ const app = express.Router();
 const {uploadImage} = require('../middlewares/uploadImage');
 const userController = require('../controllers/userController');
 app.get('/',(req,res) => {
-  res.redirect('/admin');
+  res.redirect('/login');
 });
 app.get('/login',userController.mostrarLogin);
 

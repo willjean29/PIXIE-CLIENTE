@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./index",
     "devCliente": "nodemon ./indexCliente.js",
-    "start": "node ./index.js",
+    "start": "node ./indexCliente.js",
     "cliente": "node ./indexCliente.js",
     "local": "concurrently \"npm run dev\" \"npm run watch\" ",
     "localCliente": "concurrently \"npm run devCliente\" \"npm run watch\" ",
