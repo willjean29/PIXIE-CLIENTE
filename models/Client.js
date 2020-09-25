@@ -77,7 +77,7 @@ const clientSchema = mongoose.Schema({
     type: Date,
     default: Date.now()
   },
-  expire: Date
+  expira: Date
 })
 
 // hashear el password

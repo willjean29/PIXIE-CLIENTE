@@ -4,9 +4,11 @@ const Catalog = require('../models/Catalog');
 const Business = require('../models/Business');
 const Prize = require('../models/Prize');
 const passport = require('passport');
+const crypto = require('crypto');
 const paginate = require('handlebars-paginate');
 
 const enviarEmail = require('../handlers/email');
+const emailPassword = require('../handlers/emailReset');
 
 const cloudinary = require('../config/cloudinary');
 const fs = require('fs-extra');
@@ -394,6 +396,7 @@ const registrarAvatar = async (req,res) => {
     client
   });
 }
+
 const actualizarEmpresasAfiliadas = async(req) => {
   let empresas = []
   for (let puntuacion of req.user.puntuacion) {
@@ -407,6 +410,82 @@ const actualizarEmpresasAfiliadas = async(req) => {
   }
 
   return empresas;
+}
+
+const mostrarReestablecerPassword = (req,res) => {
+  const token = crypto.randomBytes(20).toString('hex');
+  console.log(token)
+  res.render('user/reestablecer-password.hbs',{
+    layout: 'user.hbs',
+    Session: false
+  })
+}
+
+const enviarToken = async (req,res) => {
+  const usuario = await Client.findOne({email: req.body.email});
+  if(!usuario){
+    req.flash('error','No existe esa cuenta');
+    res.redirect('/login');
+    return;
+  }
+  usuario.token = crypto.randomBytes(20).toString('hex');
+  usuario.expira = Date.now() + 3600000;
+  await usuario.save();
+  const resetUrl = `http://${req.headers.host}/reestablecer-password/${usuario.token}`;
+  console.log(resetUrl);
+  // enviar notificacion por email
+  await emailPassword.enviar({
+    usuario,
+    subject: "Password Reset",
+    resetUrl,
+    archivo: 'reset'
+  })
+
+  req.flash('correcto', 'Revisa tu email para las indicaciones');
+  res.redirect('/login');
+}
+
+const reestablecerPassword = async(req,res) =>{
+  const usuario = await Client.findOne({
+    token: req.params.token,
+    expira: {
+      $gt: Date.now()
+    }
+  });
+
+  if(!usuario) {
+    req.flash('error', 'El formulario ya no es valido, intente de nuevo');
+    return res.redirect('/reestablecer-password');
+  }
+
+  // mostrar formulario
+  res.render('user/nuevo-password.hbs',{
+    layout: 'user.hbs',
+    Session: false
+  })
+}
+
+const guardarPassword = async(req,res) => {
+  const usuario = await Client.findOne({
+    token: req.params.token,
+    expira: {
+      $gt: Date.now()
+    }
+  });
+
+  if(!usuario) {
+    req.flash('error', 'El formulario ya no es valido, intente de nuevo');
+    return res.redirect('/reestablecer-password');
+  }
+
+  usuario.password = req.body.password;
+  usuario.token = undefined;
+  usuario.expira = undefined;
+
+  await usuario.save();
+
+  req.flash('correcto','Password Modificado Correctamente');
+  res.redirect('/login');
 }
 
 const cerrarSesion = (req,res) => {
@@ -428,6 +507,10 @@ module.exports = {
   canjearPremio,
   registrarAvatar,
   premiosPaginas,
+  mostrarReestablecerPassword,
+  enviarToken,
+  reestablecerPassword,
+  guardarPassword,
   cerrarSesion
 }
 

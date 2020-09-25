@@ -63,7 +63,7 @@ if(alertaError){
     "positionClass": "toast-top-center",
     "preventDuplicates": false,
   }
-  toastr.error(msg, "Error");
+  toastr.info(msg, "Info");
 }
 
 if(btnCerrarSesion){

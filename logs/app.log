@@ -392,3 +392,474 @@ SyntaxError: Unexpected identifier
 00:28:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
 00:28:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
 00:28:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:21:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:21:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:21:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:21:55 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:21:55 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:21:55 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:22:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:22:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:22:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:22:56 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:22:56 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:22:56 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:46 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:46 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:46 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:52 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:52 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:23:52 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+15:39:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Unexpected identifier
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:468
+  cerrarSesion
+  ^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+15:39:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Unexpected identifier
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:468
+  cerrarSesion
+  ^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+15:39:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Unexpected identifier
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:468
+  cerrarSesion
+  ^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:00:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:40:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18) | 
+16:00:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:40:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18) | 
+16:00:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\route.js:202:15)
+    at Function.proto.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\index.js:510:19)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:40:5)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18) | 
+16:04:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:04:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:04:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:05:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:05:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:05:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:06:45 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:06:45 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:06:45 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:08:33 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:08:33 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:08:33 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:08:41 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:08:41 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+16:08:41 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
+C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
+  const usuario = await Client.findOne({
+                  ^^^^^
+
+SyntaxError: await is only valid in async function
+    at Module._compile (internal/modules/cjs/loader.js:891:18)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
+    at Module.require (internal/modules/cjs/loader.js:848:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
