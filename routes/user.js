@@ -5,6 +5,13 @@ const userController = require('../controllers/userController');
 app.get('/',(req,res) => {
   res.redirect('/login');
 });
+app.get('/email',(req,res) => {
+  res.render('user/email-prueba.hbs',{
+    layout: 'user.hbs',
+    name : req.user.name,
+    Session: true
+  })
+})
 app.get('/login',userController.mostrarLogin);
 
 app.post('/login',userController.autenticarClliente);

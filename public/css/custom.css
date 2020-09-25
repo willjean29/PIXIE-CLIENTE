@@ -111,3 +111,21 @@
     max-width: 100px;
     height: 100px;
 }
+
+.section{
+    max-width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 3rem;
+    padding-top: 20px;
+}
+
+.title-prize{
+    background: #f8f8f8;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}

@@ -11,18 +11,19 @@
 				<div class="table-responsive">
                     
                     {{#if premiosData}}
-                        {{#each premiosData}}
-                            <table class="table">
-                                <thead>
-                                    <tr>
-                                        <th scope="col">Producto</th>
-                                        <th scope="col">Nombre</th>
-                                        <th scope="col"><i class="fa fa-circle"></i> Puntos</th>
-                                        <th scope="col">Categoria</th>
-                                        <th scope="col">Fecha</th>
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Producto</th>
+                                    <th scope="col">Nombre</th>
+                                    <th scope="col"><i class="fa fa-circle"></i> Puntos</th>
+                                    <th scope="col">Categoria</th>
+                                    <th scope="col">Fecha</th>
 
-                                    </tr>
-                                </thead>
+                                </tr>
+                            </thead>
+                        {{#each premiosData}}
+
                                 <tbody>
                                     <tr>
                                         <td>
@@ -49,8 +50,9 @@
                                         </td>
                                     </tr>
                                 </tbody>
-                            </table>
+ 
                         {{/each}}
+                            </table>
                     {{else}}
                         <div class="col-lg-12" style="text-align: center;">
                             {{!-- <div class="hot_deal_box"> --}}

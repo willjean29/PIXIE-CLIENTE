@@ -6,6 +6,8 @@ const Prize = require('../models/Prize');
 const passport = require('passport');
 const paginate = require('handlebars-paginate');
 
+const enviarEmail = require('../handlers/email');
+
 const cloudinary = require('../config/cloudinary');
 const fs = require('fs-extra');
 
@@ -287,7 +289,8 @@ const obtenerCategorias = async (idBusiness) => {
 const canjearPremio = async (req,res) => {
   const id = req.params.id;
   const idEmpresa = req.body.empresa;
-  const prize = await Prize.findById(id);
+  const empresa = await Business.findById(idEmpresa);
+  const prize = await Prize.findById(id).populate('category');
   const client = await Client.findById(req.user._id);
 
   let msg,state;
@@ -305,15 +308,32 @@ const canjearPremio = async (req,res) => {
     }
   }
   
-  // guardar el canje de puntos
-  const premioCanjeado = {
-    idBusiness: idEmpresa,
-    idPremio: id
-  };
+  if (state){
+    // guardar el canje de puntos
+    const premioCanjeado = {
+      idBusiness: idEmpresa,
+      idPremio: id
+    };
 
-  client.premios.push(premioCanjeado);
-  await client.save();
-  console.log(client);
+    client.premios.push(premioCanjeado);
+    await client.save();
+    console.log(prize);
+    // enviar notificacion por email
+    await enviarEmail.enviar({
+      usuario : req.user,
+      subject: "Confirmar Premio",
+      resetUrl: "hola mundo",
+      archivo: 'confirmar-premio',
+      nombre: prize.name,
+      url: prize.url,
+      points: prize.points,
+      price: prize.price,
+      description: prize.description,
+      category: prize.category.name,
+      business: empresa.nombreComercial !== "-" ? empresa.nombreComercial : empresa.razonSocial,
+    })
+  }
+
   res.json({
     ok: state,
     msg
