@@ -29,5 +29,7 @@ app.get('/products/:page',userController.premiosPaginas);
 
 app.post('/prizes/:id',userController.canjearPremio);
 
+app.get('/list-prizes',userController.mostrarPremiosCanjeados);
+
 module.exports = app;
 

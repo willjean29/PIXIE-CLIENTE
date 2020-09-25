@@ -1,0 +1,68 @@
+	<!--================Cart Area =================-->
+	<section class="cart_area section-padding">
+		<div class="container">
+			<div class="cart_inner">
+                <div class="row">
+					<div class="main_title">
+						<h2>Productos Canjeados</h2>
+						<p>Sigue creciendo con nosotros y obten mas beneficios</p>
+					</div>
+				</div>
+				<div class="table-responsive">
+                    
+                    {{#if premiosData}}
+                        {{#each premiosData}}
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Producto</th>
+                                        <th scope="col">Nombre</th>
+                                        <th scope="col"><i class="fa fa-circle"></i> Puntos</th>
+                                        <th scope="col">Categoria</th>
+                                        <th scope="col">Fecha</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            <div class="media">
+                                                <div class="d-flex">
+                                                    <img src="{{url}}" alt="" class="img-table">
+                                                </div>
+                                            <div class="media-body">
+                                                <p style="width: 60px;">{{business}}</p>
+                                            </div>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <h5>{{name}}</h5>
+                                        </td>
+                                        <td>
+                                            <h5><i class="fa fa-circle"></i> {{points}}</h5>
+                                        </td>
+                                        <td>
+                                            <h5>{{category}}</h5>
+                                        </td>
+                                        <td>
+                                            <h5>{{fecha}}</h5>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        {{/each}}
+                    {{else}}
+                        <div class="col-lg-12" style="text-align: center;">
+                            {{!-- <div class="hot_deal_box"> --}}
+                                <img class="img-fluid" src="/users/img/empty-cart.png" alt="" style="max-width: 40%; min-height: 200px; min-width: 200px;">
+                                <div class="content pt-3">
+                                    <h2>Aún no canjea ningún premio</h2>
+                                </div>
+                            {{!-- </div> --}}
+                        </div>
+                    {{/if}}
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================End Cart Area =================-->

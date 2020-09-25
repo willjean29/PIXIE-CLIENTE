@@ -62,6 +62,10 @@ const clientSchema = mongoose.Schema({
     idPremio:{
       type: mongoose.Schema.Types.ObjectId,
       ref: 'Prize'
+    },
+    date:{
+      type: Date,
+      default: new Date()
     }
   }],
   role:{

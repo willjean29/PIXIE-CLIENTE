@@ -180,6 +180,35 @@ const mostrarCategoriaCatalogo = async (req,res) => {
   })
 }
 
+const mostrarPremiosCanjeados = async (req,res) => {
+  const premios = req.user.premios;
+  // console.log(premios)
+  const premiosData = [];
+  for (const premio of premios) {
+    const prize = await Prize.findById(premio.idPremio).populate('category');
+    const business = await Business.findById(premio.idBusiness);
+    const fecha = `${premio.date.getDate()}/${premio.date.getMonth()+1}/${premio.date.getFullYear()}`;
+    const premioInfo = {
+      name: prize.name,
+      url: prize.url,
+      points: prize.points,
+      price: prize.price,
+      category: prize.category.name,
+      business: business.nombreComercial !== "-" ? business.nombreComercial : business.razonSocial,
+      fecha
+    }
+    premiosData.push(premioInfo);
+  }
+
+  console.log(premiosData)
+  res.render('user/listar-premios-canjeados.hbs',{
+    layout: 'user.hbs',
+    premiosData,
+    name : req.user.name,
+    Session: true
+  })
+}
+
 const registrarCliente = async (req,res) => {
   const {dni,email,password,sexo} = req.body;
   // validar si ya existe el cliente 
@@ -275,8 +304,16 @@ const canjearPremio = async (req,res) => {
       }
     }
   }
-  console.log(client);
+  
+  // guardar el canje de puntos
+  const premioCanjeado = {
+    idBusiness: idEmpresa,
+    idPremio: id
+  };
+
+  client.premios.push(premioCanjeado);
   await client.save();
+  console.log(client);
   res.json({
     ok: state,
     msg
@@ -343,7 +380,7 @@ const actualizarEmpresasAfiliadas = async(req) => {
     const empresa = await Business.findById(puntuacion.idBusiness);
     const data = {
       id: empresa._id,
-      nombre : empresa.razonSocial,
+      nombre : empresa.nombreComercial !== "-" ? empresa.nombreComercial : empresa.razonSocial,
       puntos : puntuacion.puntos
     }
     empresas.push(data);
@@ -361,6 +398,7 @@ module.exports = {
   mostrarLogin,
   mostrarRegistrarCliente,
   mostrarCuentaUsuario,
+  mostrarPremiosCanjeados,
   autenticarClliente,
   clienteAutenticado,
   mostrarListadoEmpresas,

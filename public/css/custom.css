@@ -102,3 +102,12 @@
     color: #222222;
     font-weight: bold;
 }
+
+.height-img{
+    height: 211.25px;
+}
+
+.img-table{
+    max-width: 100px;
+    height: 100px;
+}
