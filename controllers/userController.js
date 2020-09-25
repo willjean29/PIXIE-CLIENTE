@@ -431,7 +431,7 @@ const enviarToken = async (req,res) => {
   usuario.token = crypto.randomBytes(20).toString('hex');
   usuario.expira = Date.now() + 3600000;
   await usuario.save();
-  const resetUrl = `http://${req.headers.host}/reestablecer-password/${usuario.token}`;
+  const resetUrl = `https://${req.headers.host}/reestablecer-password/${usuario.token}`;
   console.log(resetUrl);
   // enviar notificacion por email
   await emailPassword.enviar({
