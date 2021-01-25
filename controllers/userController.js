@@ -422,6 +422,7 @@ const mostrarReestablecerPassword = (req,res) => {
 }
 
 const enviarToken = async (req,res) => {
+  console.log("hola token")
   const usuario = await Client.findOne({email: req.body.email});
   if(!usuario){
     req.flash('error','No existe esa cuenta');
