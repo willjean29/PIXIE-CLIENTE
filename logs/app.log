@@ -1,865 +1,136 @@
-17:50:40 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-17:50:40 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-17:50:40 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-17:50:40 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-17:50:40 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:10:49 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| uncaughtException: Missing initializer in const declaration
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:188
-    const premioData;
-          ^^^^^^^^^^
-
-SyntaxError: Missing initializer in const declaration
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-18:10:49 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| uncaughtException: Missing initializer in const declaration
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:188
-    const premioData;
-          ^^^^^^^^^^
-
-SyntaxError: Missing initializer in const declaration
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-18:10:49 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| uncaughtException: Missing initializer in const declaration
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:188
-    const premioData;
-          ^^^^^^^^^^
-
-SyntaxError: Missing initializer in const declaration
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-18:49:11 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:49:11 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:49:11 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:50:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| uncaughtException: Unexpected identifier
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:207
-    Session: true
-    ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-18:50:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| uncaughtException: Unexpected identifier
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:207
-    Session: true
-    ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-18:50:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| uncaughtException: Unexpected identifier
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:207
-    Session: true
-    ^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-18:55:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:55:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:55:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:13 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:13 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:13 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:28 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:28 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:56:28 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:57:00 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:57:00 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:57:00 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:58:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:58:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:58:31 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:59:00 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:59:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-18:59:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:01:08 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:01:08 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:01:08 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:16 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:17 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:17 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:38 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:38 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:38 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:59 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:59 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:02:59 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:25:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:25:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:25:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:28:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:28:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:28:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:29:46 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:29:47 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:29:47 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:31:32 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:31:32 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:31:32 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:36:09 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:36:09 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:36:09 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:36:28 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:36:28 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:36:28 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:37:04 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:37:04 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:37:04 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:39:35 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:39:35 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:39:35 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:42:31 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:42:31 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:42:31 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:44:11 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:44:11 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:44:11 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:44:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:44:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:44:55 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:45:21 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:45:21 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:45:21 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:45:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:45:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:45:33 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:46:43 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:46:43 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:46:43 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:48:58 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:48:58 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:48:58 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:55:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:55:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:55:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:56:03 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:56:03 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:56:03 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:58:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:58:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:58:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:58:49 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:58:49 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:58:49 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:59:42 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:59:42 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-19:59:42 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:03:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:03:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:03:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:09:47 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:09:47 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:09:47 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:19:31 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:19:31 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:19:31 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:19:48 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:19:48 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:19:48 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:20:20 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:20:20 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:20:20 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:20:45 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:20:45 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:20:45 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:09 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:09 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:10 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:24 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:24 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:24 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:43 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:43 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:21:43 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:22:27 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:22:27 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:22:27 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:23:10 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:23:10 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:23:10 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:24:26 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:24:27 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:24:27 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:14 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:14 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:14 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:19 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:19 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:19 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:54 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:54 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:25:54 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:26:29 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:26:29 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:26:29 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:27:04 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:27:04 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:27:04 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:27:19 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:27:19 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-20:27:19 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-21:08:46 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-21:08:46 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-21:08:46 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:30:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":500,"error":{"view":{"defaultEngine":"hbs","ext":".hbs","name":"user/email.hbs","root":"C:\\Users\\willj\\Desktop\\Proyectos Node\\pixie-TCSWCliente\\PIXIE-TCSW\\views"}}} | 
-23:31:04 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:31:05 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:31:05 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:31:05 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:37:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:37:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:37:01 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:48:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:48:06 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:48:07 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:53:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:53:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:53:30 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:54:13 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:54:13 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-23:54:13 GMT-0500 (GMT-05:00)2020-9-24 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:00:14 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:00:14 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:00:14 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:00:43 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:00:43 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:00:43 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:02:35 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:02:35 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:02:35 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:03:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:03:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:03:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:04:39 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:04:39 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:04:40 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:05:22 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:05:23 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:05:23 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:06:18 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:06:18 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:06:18 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:06:31 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:06:31 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:06:31 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:07:04 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:07:04 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:07:04 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:08:15 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:08:15 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:08:15 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:09:21 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:09:21 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:09:21 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:12:29 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:12:29 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:12:29 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:13:17 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:13:17 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:13:17 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:13:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:13:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:13:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:14:06 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:14:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:14:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:15:35 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:15:36 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:15:36 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:15:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:15:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:15:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:16:16 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:16:16 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:16:16 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:18:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:18:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:18:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:19:04 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:19:04 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:19:04 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:19:27 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:19:27 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:19:27 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:21:06 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:21:06 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:21:06 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:21:44 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:21:44 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:21:44 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:22:24 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:22:24 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:22:24 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:22:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:22:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:22:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:27:10 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:27:10 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:27:10 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:27:24 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:27:25 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:27:25 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:28:11 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:28:11 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:28:11 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:28:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:28:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-00:28:32 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:21:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:21:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:21:42 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:21:55 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:21:55 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:21:55 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:22:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:22:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:22:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:22:56 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:22:56 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:22:56 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:03 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:46 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:46 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:46 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:52 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:52 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:23:52 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
-15:39:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Unexpected identifier
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:468
-  cerrarSesion
-  ^^^^^^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-15:39:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Unexpected identifier
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:468
-  cerrarSesion
-  ^^^^^^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-15:39:50 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Unexpected identifier
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:468
-  cerrarSesion
-  ^^^^^^^^^^^^
-
-SyntaxError: Unexpected identifier
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:00:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Route.get() requires a callback function but got a [object Undefined]
-Error: Route.get() requires a callback function but got a [object Undefined]
-    at Route.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\route.js:202:15)
-    at Function.proto.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\index.js:510:19)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:40:5)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18) | 
-16:00:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Route.get() requires a callback function but got a [object Undefined]
-Error: Route.get() requires a callback function but got a [object Undefined]
-    at Route.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\route.js:202:15)
-    at Function.proto.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\index.js:510:19)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:40:5)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18) | 
-16:00:07 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: Route.get() requires a callback function but got a [object Undefined]
-Error: Route.get() requires a callback function but got a [object Undefined]
-    at Route.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\route.js:202:15)
-    at Function.proto.<computed> [as get] (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\node_modules\express\lib\router\index.js:510:19)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:40:5)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18) | 
-16:04:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:04:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:04:49 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:05:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:05:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:05:02 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:06:45 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:06:45 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:06:45 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:08:33 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:08:33 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:08:33 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:08:41 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:08:41 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
-16:08:41 GMT-0500 (GMT-05:00)2020-9-25 | ERROR| uncaughtException: await is only valid in async function
-C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\controllers\userController.js:449
-  const usuario = await Client.findOne({
-                  ^^^^^
-
-SyntaxError: await is only valid in async function
-    at Module._compile (internal/modules/cjs/loader.js:891:18)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\user.js:4:24)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
-    at Module.load (internal/modules/cjs/loader.js:811:32)
-    at Function.Module._load (internal/modules/cjs/loader.js:723:14)
-    at Module.require (internal/modules/cjs/loader.js:848:19)
-    at require (internal/modules/cjs/helpers.js:74:18)
-    at Object.<anonymous> (C:\Users\willj\Desktop\Proyectos Node\pixie-TCSWCliente\PIXIE-TCSW\routes\index.js:32:13)
-    at Module._compile (internal/modules/cjs/loader.js:955:30)
-    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10) | 
+01:45:35 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:45:35 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:45:35 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:22 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:30 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:30 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:30 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:36 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:36 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:46:36 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:47:54 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:47:54 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:47:54 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:49:01 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:49:01 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:49:01 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:49:43 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:49:43 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:49:43 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:13 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:13 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:13 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:32 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:32 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:32 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:37 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:37 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:52:37 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:53:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:53:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:53:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:53:27 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:53:27 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:53:27 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:54:41 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:54:41 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:54:41 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:56:56 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:56:56 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:56:57 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:58:07 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:58:07 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+01:58:07 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:00:13 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:00:14 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:00:14 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:02:14 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:02:14 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:02:14 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:03:37 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:03:37 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:03:38 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:05:22 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:05:22 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:05:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:06:21 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:06:21 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:06:22 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:06:54 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:06:54 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:06:54 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:07:57 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:07:58 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:07:58 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:08:08 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:08:08 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:08:08 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:08:26 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:08:26 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:08:26 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:10:11 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:10:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:10:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:11:09 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:11:09 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:11:09 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:11:54 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:11:55 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:11:55 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:12:04 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:12:04 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:12:04 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:12:17 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:12:17 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:12:17 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:14:31 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:14:32 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:14:32 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:17:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:17:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:17:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:18:17 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:18:17 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:18:18 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:19:39 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:19:39 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:19:40 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:20:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:20:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:20:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:20:45 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:20:45 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:20:45 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:21:04 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:21:04 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:21:04 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:21:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:21:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:21:24 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:26:15 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:26:15 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:26:15 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:26:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:26:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:26:23 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:27:03 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:27:03 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:27:03 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:27:24 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:27:24 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:27:24 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:28:08 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:28:08 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:28:08 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:28:12 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:01 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:02 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:02 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:03 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:03 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:03 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:31 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:32 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 
+02:29:32 GMT-0500 (GMT-05:00)2021-1-25 | ERROR| Error al cargar un recurso | data:{"status":404,"error":{"message":"Not found"}} | 

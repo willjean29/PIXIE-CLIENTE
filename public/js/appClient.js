@@ -6,6 +6,9 @@ import Swal from 'sweetalert2';
 // console.log("gaaaaaaa");
 let categorias = document.querySelectorAll('.categoria');
 const btnCerrarSesion = document.getElementById('logout-cliente');
+const divBusiness = document.querySelectorAll('#container-business');
+const listBusiness = Array.from(divBusiness);
+console.log(listBusiness)
 document.addEventListener('DOMContentLoaded',() => {
   if(categorias){
     seleccionarCategoria();
@@ -69,7 +72,7 @@ if(alertaError){
 if(btnCerrarSesion){
   btnCerrarSesion.addEventListener('click',(event) => {
     event.preventDefault();
-    console.log("click")
+    console.log("click en salir")
     Swal.fire({
       title: 'Cerrar Sesión',
       text: "¿Desea cerrar sesion?",
@@ -89,6 +92,14 @@ if(btnCerrarSesion){
 
 if(formAvatar){
   formAvatar.addEventListener('submit',registrarAvatar);
+}
+
+if(divBusiness){
+  listBusiness.map(item => {
+    item.addEventListener('click',(event) => {
+      abrirCatalogo(event,item)
+    });
+  })
 }
 
 function seleccionarCategoria(){
@@ -144,6 +155,12 @@ function registrarAvatar(event){
         timer: 1500
       })
     })
+}
+
+function abrirCatalogo(event,item){
+  console.log(event);
+  const id = item.dataset.id;
+  location.href = `/business/${id}`;
 }
 
 

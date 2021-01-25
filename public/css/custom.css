@@ -92,6 +92,8 @@
     -webkit-line-clamp: 3;
     /* Y por ultimo ocultar las lineas que se salgan del texto */
     overflow-y: hidden;
+    /* color: red; */
+    z-index: 1;
 }
 
 .title-page{

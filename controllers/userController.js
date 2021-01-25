@@ -65,7 +65,7 @@ const mostrarListadoEmpresas = async(req,res) => {
 
   //  cargar las empresas asosciadas
   req.session.afiliadas = await actualizarEmpresasAfiliadas(req);
-  console.log(req.session.afiliadas)
+  console.log(req.session.afiliadas);
   res.render('user/listar-empresas.hbs',{
     layout: 'user.hbs',
     empresas: req.session.afiliadas,
@@ -75,6 +75,7 @@ const mostrarListadoEmpresas = async(req,res) => {
 }
 
 const mostrarCatalogoEmpresa = async (req,res) => {
+  console.log("mostrar empresa");
   const categorias = await obtenerCategorias(req.params.id);
   const catalogo = await Catalog.findOne({business: req.params.id});
   // premios por pagina
@@ -111,7 +112,9 @@ const mostrarCatalogoEmpresa = async (req,res) => {
       empresaActual = empresa;
     }
   }
-
+  // console.log("passss");
+  // console.log(premiosTotales);
+  // return;
   res.render('user/listar-catalogo.hbs',{
     layout: 'user.hbs',
     categorias,
