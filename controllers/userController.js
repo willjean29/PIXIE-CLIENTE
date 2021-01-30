@@ -189,10 +189,13 @@ const mostrarCategoriaCatalogo = async (req,res) => {
 
 const mostrarPremiosCanjeados = async (req,res) => {
   const premios = req.user.premios;
-  // console.log(premios)
+  console.log(premios)
   const premiosData = [];
   for (const premio of premios) {
     const prize = await Prize.findById(premio.idPremio).populate('category');
+    if(prize === null){
+      continue;
+    }
     const business = await Business.findById(premio.idBusiness);
     const fecha = `${premio.date.getDate()}/${premio.date.getMonth()+1}/${premio.date.getFullYear()}`;
     const premioInfo = {
@@ -207,7 +210,7 @@ const mostrarPremiosCanjeados = async (req,res) => {
     premiosData.push(premioInfo);
   }
 
-  console.log(premiosData)
+  // console.log(premiosData)
   res.render('user/listar-premios-canjeados.hbs',{
     layout: 'user.hbs',
     premiosData,
